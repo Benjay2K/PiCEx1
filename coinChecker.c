@@ -2,7 +2,7 @@
 
 int main(){
 
-    //print msg, scan for input, switch case for properties
+    //print msg, scan for input, switch case for properties, output properties
     printf("Enter cent value\n");
 
     int enteredValue;
