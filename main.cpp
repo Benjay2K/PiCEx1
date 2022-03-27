@@ -4,9 +4,11 @@
 
 int main() {
 
+    //print msg
     printf("Hello_University_of_Klagenfurt!\n");
     getchar();
 
+    //sum of two integers: print msg, scan for input, calculate, print sum
     int number1, number2, sum;
     printf("Please enter two integers:\n");
     scanf("%d %d",&number1,&number2);
