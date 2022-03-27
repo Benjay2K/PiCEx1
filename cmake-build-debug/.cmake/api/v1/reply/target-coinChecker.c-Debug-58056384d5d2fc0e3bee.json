@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "untitled.exe"
+			"path" : "coinChecker.c.exe"
 		},
 		{
-			"path" : "untitled.pdb"
+			"path" : "coinChecker.c.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 6,
+				"line" : 7,
 				"parent" : 0
 			}
 		]
@@ -39,27 +39,16 @@
 			[
 				{
 					"fragment" : "-g"
-				},
-				{
-					"fragment" : "-std=gnu++14"
 				}
 			],
-			"language" : "CXX",
-			"languageStandard" : 
-			{
-				"backtraces" : 
-				[
-					1
-				],
-				"standard" : "14"
-			},
+			"language" : "C",
 			"sourceIndexes" : 
 			[
 				0
 			]
 		}
 	],
-	"id" : "untitled::@6890427a1f51a3e7e1df",
+	"id" : "coinChecker.c::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -77,10 +66,10 @@
 				"role" : "libraries"
 			}
 		],
-		"language" : "CXX"
+		"language" : "C"
 	},
-	"name" : "untitled",
-	"nameOnDisk" : "untitled.exe",
+	"name" : "coinChecker.c",
+	"nameOnDisk" : "coinChecker.c.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -101,7 +90,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "main.cpp",
+			"path" : "coinChecker.c",
 			"sourceGroupIndex" : 0
 		}
 	],

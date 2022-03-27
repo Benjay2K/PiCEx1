@@ -1,3 +1,4 @@
+C:/Users/benil/CLionProjects/PiCEx1-Lepuschitz/cmake-build-debug/CMakeFiles/main.cpp.dir
+C:/Users/benil/CLionProjects/PiCEx1-Lepuschitz/cmake-build-debug/CMakeFiles/coinChecker.c.dir
 C:/Users/benil/CLionProjects/PiCEx1-Lepuschitz/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/benil/CLionProjects/PiCEx1-Lepuschitz/cmake-build-debug/CMakeFiles/untitled.dir
 C:/Users/benil/CLionProjects/PiCEx1-Lepuschitz/cmake-build-debug/CMakeFiles/rebuild_cache.dir

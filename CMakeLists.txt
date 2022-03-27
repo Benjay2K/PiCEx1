@@ -3,4 +3,5 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled main.cpp)
+add_executable(main.cpp main.cpp)
+add_executable(coinChecker.c coinChecker.c)
